@@ -4,3 +4,4 @@ Correo
 Telefono
 Fecha Nacimiento
 Contraseña
+Género
